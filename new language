@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Start new language</title>
+    <!-- Add your CSS links here -->
+</head>
+<body>
+    <header>
+        <h1>Language Learning Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Our Language Learning Hub</h2>
+        <p>Start your language learning journey with us!</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Learn more about who we are and our mission to help you learn languages.</p>
+    </section>
+
+    <section id="blog">
+        <h2>Latest Blog Posts</h2>
+        <!-- Add your blog post content here -->
+    </section>
+
+    <section id="resources">
+        <h2>Language Learning Resources</h2>
+        <!-- Add your language learning resources here -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <!-- Add a contact form or your contact information here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Language Learning Hub. All rights reserved.</p>
+    </footer>
+    <!-- Add your JavaScript links here -->
+</body>
+</html>
